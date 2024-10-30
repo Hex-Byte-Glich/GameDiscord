@@ -1,0 +1,38 @@
+{
+  "name": "Loto",
+  "version": "3.0.0",
+  "description": "LorinThoson Team",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "@discordjs/voice": "^0.17.0",
+    "anime-actions": "^2.1.2",
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "conf": "^13.0.1",
+    "discord": "^0.8.2",
+    "discord-api-types": "^0.37.100",
+    "discord-gamecord": "^4.4.2",
+    "discord-hybrid-sharding": "^2.2.3",
+    "discord-player": "^6.7.1",
+    "discord.js": "^14.16.2",
+    "distube": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.1.3",
+    "nodemon": "^3.1.0",
+    "pm2": "^5.4.2",
+    "yt-search": "^2.6.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
